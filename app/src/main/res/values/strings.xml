@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EZ2guess</string>
+    <string name="about_text">
+    Автор: Алексеев Алексей \n
+        Приложение создано в качестве итогового проекта при прохождении курса для преподавателей \n
+        <b>IT школы Samsung</b></string>
+</resources>
